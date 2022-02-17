@@ -1,1 +1,12 @@
-
+{  
+  
+  "Title":"При нажатии на кнопку Заказы и оплаты идет переход на главную страницу сайта",
+  "Description":"Открыта главная страница сайта aliexpress.ru",
+  "Steps To Reproduce":"Кликнуть кнопку Заказы и оплата",
+  "Result":"Открывается главная страница сайта aliexpress.ru",
+  "Expected Result":"Переход на страницу Заказы и оплата",
+  "Environment":"Windows 10 Home 64-x  Opera V.82.0.4227.43",
+  "Priority":"Low",
+  "Reporter":"tester"
+  
+}
